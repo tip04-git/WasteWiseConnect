@@ -11,10 +11,10 @@
     Libraries: PyTorch, OpenCV
     
 . Model Testing Result:
-    
-    ![WhatsApp Image 2024-05-24 at 12 29 31_71bbbc04](https://github.com/user-attachments/assets/26213467-eecb-4a91-a612-c5a241c01a6a)
 
-    ![IMG-20240524-WA0009 1](https://github.com/user-attachments/assets/66171a40-5985-4c7c-90fa-92e6e035f1f3)
+![WhatsApp Image 2024-05-24 at 11 09 41_c469e1ca](https://github.com/user-attachments/assets/1b119246-d6a7-4272-a8b1-c18a8cf9d0c5)
+
+ ![WhatsApp Image 2024-05-24 at 11 09 16_7650bb4b](https://github.com/user-attachments/assets/b9478396-07de-44ce-9e39-e8466514de56)
 
 .Future Scalability:
   For any model the key aspects to consider are accuracy ,scalability ,reliability and security. To ensure these we follow :
