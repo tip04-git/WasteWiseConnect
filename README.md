@@ -4,6 +4,9 @@
 **Introduction:**  
 "Existing waste management systems struggle with ineffective waste segregation, resulting in environmental degradation and a lack of sustainable energy solutions. Our goal is to develop a machine learning model that not only efficiently segregates waste but also identifies organic materials suitable for bioenergy generation.”
 
+**Our Solution:**
+We created an ML model, that takes the picture of the waste from the user and analyse the type of waste it is,by doing this we can seperate the waste at the basic level itself. This tech can be used either in the dumping yards or in the homes which will simplify the process of waste segregation and man power.
+
 **Tech Stack:**  
 We have used the following tech stack while developing:  
 - **ML Model**: YOLOv5  
