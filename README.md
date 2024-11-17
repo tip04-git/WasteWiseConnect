@@ -6,10 +6,11 @@
     "Existing waste management systems struggle with ineffective waste segregation, resulting in environmental degradation and a lack of sustainable energy solutions. Our        goal is to develop a machine learning model that not only efficiently segregates waste but also identifies organic materials suitable for bioenergy generation.”
 
 **Tech Stack:**
-    *  For this ML Model we have used “YOLOV5”.
-    *  data set was taken from “Roboflow”.
-    *  Programming Language: Python
-    *  Libraries: PyTorch, OpenCV
+    We have used the following Techstack while developing:
+            * 1.For this ML Model we have used “YOLOV5”.
+            * 2.data set was taken from “Roboflow”.
+            * 3.Programming Language: Python
+            * 4.Libraries: PyTorch, OpenCV
     
 **Model Testing Result:**
 
