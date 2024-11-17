@@ -1,6 +1,7 @@
 # WasteWiseConnect
 "A machine learning-powered waste segregation model for efficient and eco-friendly waste management."
 
+
 **Introduction:**
     "Existing waste management systems struggle with ineffective waste segregation, resulting in environmental degradation and a lack of sustainable energy solutions. Our        goal is to develop a machine learning model that not only efficiently segregates waste but also identifies organic materials suitable for bioenergy generation.”
 
