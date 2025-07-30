@@ -41,11 +41,12 @@ We built a **YOLOv5-based image recognition model** that:
 
 The model was trained on a custom Roboflow dataset and tested on real-world images. Below are sample results:
 
-![Waste Image 1](https://github.com/user-attachments/assets/1b119246-d6a7-4272-a8b1-c18a8cf9d0c5)  
-
-![Waste Image 2](https://github.com/user-attachments/assets/b9478396-07de-44ce-9e39-e8466514de56)
+<img src="https://github.com/user-attachments/assets/1b119246-d6a7-4272-a8b1-c18a8cf9d0c5" width="450"/>  
+<br/>
+<img src="https://github.com/user-attachments/assets/b9478396-07de-44ce-9e39-e8466514de56" width="450"/>
 
 *Images showcase detection boxes around waste items, categorized in real-time.*
+
 
 ---
 
